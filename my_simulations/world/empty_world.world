@@ -11,5 +11,11 @@
 		<include>
 			<uri>model://ground_plane</uri>
 		</include>
+
+        <!-- Our custom model -->
+		<include>
+			<uri>model://my1stmodel</uri>
+		</include>
+        
 	</world>
 </sdf>
